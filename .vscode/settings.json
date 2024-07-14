@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\felli\\Documents\\dependencias\\gson-2.11.0.jar"
+    ]
+}
